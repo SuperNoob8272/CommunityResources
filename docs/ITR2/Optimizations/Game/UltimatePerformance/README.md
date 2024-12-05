@@ -53,16 +53,17 @@ This should now accurately reflect the file paths mentioned in your instructions
 
 ### RSF Step 1
 
-- **Image Placeholder:** ![](.assets/rsf-step-1.png)  
-  Open the drop-down menu for `IntoTheRadius2` and select the "VrPerfKit RSF Install plugin" option.
+- Open the drop-down menu for `IntoTheRadius2` and select the "VrPerfKit RSF Install plugin" option.
+![RSF Step 1](.assets/rsf-step-1.png)
 
 ---
 
 ### RSF Step 2
 
-- **Image Placeholder:** ![](.assets/rsf-step-2.png)
-  Carefully copy all the settings in the image to your settings—don’t miss a thing!  
-  You can adjust the FPS target to your max FPS, but the most important part is the **Hidden Mask** options.
+- Carefully copy all the settings in the image to your settings—don’t miss a thing!  
+  You can adjust the FPS target to your max FPS, but the most
+  important part is the **Hidden Mask** options.
+  ![RSF Step 2](.assets/rsf-step-2.png)
 
 ---
 
